@@ -64,6 +64,3 @@ Experienced in supporting web services at Siseko Technologies. Passionate about 
 - Git
 - VS Code
 - IntelliJ IDEA  
-
-
-<video width="600" controls src= "Mock interview-Muso Nkuntsu(1).mp4></video>
