@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/8b4ebcf2-66ea-443f-acf8-dca23c71c532
 # MUSO NKUNTSU
 
 📍 Greenpoint, Khayelitsha, Cape Town  
@@ -62,3 +64,6 @@ Experienced in supporting web services at Siseko Technologies. Passionate about 
 - Git
 - VS Code
 - IntelliJ IDEA  
+
+
+<video width="600" controls src= "Mock interview-Muso Nkuntsu(1).mp4></video>
