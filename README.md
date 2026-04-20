@@ -86,16 +86,11 @@ Key learnings and responsibilities:
  ## Mock Interview:
  
  
-## https://drive.google.com/file/d/1E-9V2Fc_QhCLT3_dBnCpLBhu1zz-UIjV/view?usp=sharing
+https://drive.google.com/file/d/1E-9V2Fc_QhCLT3_dBnCpLBhu1zz-UIjV/view?usp=sharing
 
 
 
 ---
-
-
-
-
-
 
 
 
