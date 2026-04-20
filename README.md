@@ -89,6 +89,22 @@ Key learnings and responsibilities:
 
 
 
+---
+
+
+---
+
+
+---
+
+
+
+
+
+
+
+
+
 # Coding in Markdown (STAR Method)
 
 ## Situation
